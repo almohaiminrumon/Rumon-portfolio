@@ -24,9 +24,7 @@ h1{
 h1 span{
     color: orange;
 }
-h2{
-    font-size: 40px;
-}
+
 .flexible-container{
     display: flex;
    
@@ -41,4 +39,15 @@ h2{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+p{
+    color: dimgray;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+h2{
+    font-size: 40px;
 }
